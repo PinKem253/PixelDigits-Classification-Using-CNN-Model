@@ -1,6 +1,6 @@
 # PixelDigits Classification Using CNN Model
 # Overview
-* This repository involves training Convolutional Neural Network model using pytorch, which classifies handwritten pixel digits from 0 to 9 with the aiming of achieving accuracy score as high as possible. There's also an app deployment version of this project using HuggingFace platform with the given URL: https://huggingface.co/spaces/PinKem/Handwritten_Digits_Classification
+* This repository involves training Convolutional Neural Network model using pytorch, which classifies handwritten pixel digits from 0 to 9 with the aiming of achieving accuracy score as high as possible. There's also an app deployment version of this project using HuggingFace platform via this URL: https://huggingface.co/spaces/PinKem/Handwritten_Digits_Classification
   
 # Github Folder Explanation:
 * data: contains MNIST dataset,includes raw data with 60.000 train images and 10.000 test images
